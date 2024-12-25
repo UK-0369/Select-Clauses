@@ -1,5 +1,13 @@
 # Select-Clauses
-assignmnet
+# assignmnet
+
+# question : Create a table named Managers with fields 
+
+
+
+
+
+
 CREATE TABLE Manager (
     Manager_Id INT IDENTITY(1,1) PRIMARY KEY,
     First_Name NVARCHAR(50) NOT NULL,
